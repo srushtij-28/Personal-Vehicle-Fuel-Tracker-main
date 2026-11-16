@@ -1,0 +1,27 @@
+Features:
+Add vehicle details
+Record fuel purchases
+Track fuel quantity and price
+Calculate vehicle mileage
+View fuel purchase history
+Search records by vehicle
+Update and delete fuel records
+Calculate total fuel expenses
+View average mileage and fuel statistics
+
+Project Structure:
+
+Personal_Vehicle_Fuel_Tracker/
+│
+├── main.py
+├── fuel_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    ├── vehicles.json
+    └── fuel_records.json
